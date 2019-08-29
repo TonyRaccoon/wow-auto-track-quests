@@ -1,0 +1,6 @@
+## Interface: 80200
+## Title: Auto Track Quests
+## Notes: Automatically tracks new quests
+## Author: Foxthorn
+## Version: 1.0
+AutoTrackQuests.lua
