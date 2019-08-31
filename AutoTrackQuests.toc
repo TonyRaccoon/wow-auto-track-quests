@@ -2,5 +2,6 @@
 ## Title: Auto Track Quests
 ## Notes: Automatically tracks new quests
 ## Author: Foxthorn
-## Version: 1.1
+## Version: 1.2
+## SavedVariables: AutoTrackQuestsDB
 AutoTrackQuests.lua
