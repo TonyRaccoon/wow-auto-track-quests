@@ -1,4 +1,4 @@
-## Interface: 80200
+## Interface: 11302
 ## Title: Auto Track Quests
 ## Notes: Automatically tracks new quests
 ## Author: Foxthorn
